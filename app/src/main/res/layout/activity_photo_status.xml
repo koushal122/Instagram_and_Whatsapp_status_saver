@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.Whatsapp_and_Instagram_Status_Downloader.Photo_status">
+
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/particularImage"
+        android:layout_width="match_parent"
+        android:layout_height="700dp"
+        android:fitsSystemWindows="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ic_launcher_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+   </androidx.appcompat.widget.AppCompatImageView>
+    <LinearLayout
+        android:id="@+id/Components"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#BDA8C7"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/particularImage"
+        app:layout_constraintVertical_bias="1.0"
+        android:gravity="center_horizontal">
+
+     <ImageView
+         android:layout_width="50dp"
+         android:layout_height="50dp"
+         android:src="@drawable/ic_baseline_download_24"
+         android:background="#00FF83"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/downloadImageview"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            android:background="#00FF83"
+            android:drawablePadding="15dp"
+            android:shadowRadius="15"
+            android:text="Download"
+            android:textColor="@color/black" />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
