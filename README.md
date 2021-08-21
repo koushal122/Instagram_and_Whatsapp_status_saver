@@ -11,7 +11,7 @@ For instagram saver
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/68633415/130080596-73ac2a0d-c8d1-4fae-bd65-f958fddef2a1.jpg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://user-images.githubusercontent.com/68633415/130080596-73ac2a0d-c8d1-4fae-bd65-f958fddef2a1.jpg" width="350" title="hover text">
 </p>
  
 
