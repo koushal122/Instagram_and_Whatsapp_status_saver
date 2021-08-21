@@ -9,5 +9,10 @@ For instagram saver
  ii)Come to the app and simply paste the link and click on download button 
  iii) it will saved to phone storage
  
-![Screenshot_2021-08-19-18-47-56-84_ee015900260ab508ba0bf0f18dc28a83](https://user-images.githubusercontent.com/68633415/130080596-73ac2a0d-c8d1-4fae-bd65-f958fddef2a1.jpg)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/68633415/130080596-73ac2a0d-c8d1-4fae-bd65-f958fddef2a1.jpg" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+ 
+
 
