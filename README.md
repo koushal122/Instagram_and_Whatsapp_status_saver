@@ -11,12 +11,13 @@ For instagram saver
  iii) it will saved to phone storage
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/68633415/130080596-73ac2a0d-c8d1-4fae-bd65-f958fddef2a1.jpg" width="300" title="hover text">
-  <img src="https://user-images.githubusercontent.com/68633415/130315873-b5931670-91c7-4b4a-9131-92a3ea7f389f.jpg" width="300" title="hover text">
- <img src="https://user-images.githubusercontent.com/68633415/130315875-bd5bf559-b9de-428a-8725-5d91197fbc24.jpg" width="300" title="hover text">
- <img src="https://user-images.githubusercontent.com/68633415/130315876-4c93c432-7daa-4060-aa82-2d7dbaa8fda3.jpg" width="300" title="hover text">
- <img src="https://user-images.githubusercontent.com/68633415/130315877-9b14ffac-765b-465a-a72c-63718fb75e9d.jpg" width="300" title="hover text">
- <img src="https://user-images.githubusercontent.com/68633415/130315878-0d2ab985-0a83-4f06-9162-cd51046f3d83.jpg" width="300" title="hover text">
+  <img src="https://user-images.githubusercontent.com/68633415/132979116-8635b5b6-1b8c-4737-b394-bcfd35779e9e.png" width="300" title="hover text">
+  <img src="https://user-images.githubusercontent.com/68633415/132979132-76af21c5-a057-4ac5-9c18-f7a85168a769.png" width="300" title="hover text">
+ <img src="https://user-images.githubusercontent.com/68633415/132979133-fe9283d1-db27-4484-8aa6-aa2577f5b70c.png" width="300" title="hover text">
+ <img src="https://user-images.githubusercontent.com/68633415/132979135-0ff89252-ff9e-446d-b0c9-2386b78a059f.png" width="300" title="hover text">
+ <img src="https://user-images.githubusercontent.com/68633415/132979139-b52d3277-44a4-490d-9852-893affd883d3.png" width="300" title="hover text">
+ <img src="https://user-images.githubusercontent.com/68633415/132979141-613ecd4c-c08f-4f04-806a-2d4f60829cf7.png" width="300" title="hover text">
+ <img src="https://user-images.githubusercontent.com/68633415/132979142-580bfa24-c373-4f8b-9774-71f1ace77ca0.png" width="300" title="hover text">
 </p>
  
 
